@@ -2,6 +2,5 @@ import { defineConfig } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-    site: 'https://zeroqli.github.io',
-    base: '/corepack',
+    site: 'https://corepack.me',
 });
